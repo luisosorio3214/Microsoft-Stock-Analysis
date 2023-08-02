@@ -167,7 +167,7 @@
   <section id="website">
   <h2>Checkout the Website with dashboard</h2>
   <p>
-    To read full Microsoft Stock Analysis with a story relating to tech and economics click<a href="https://luisosorio3214.github.io/Power-BI-Dashboards/Microsoft%20Stock/b">here</a>.
+    To read full Microsoft Stock Analysis with a story relating to tech and economics click <a href="https://luisosorio3214.github.io/Power-BI-Dashboards/Microsoft%20Stock/b">here</a>.
   </p>
   </section>
 </p>
