@@ -37,7 +37,7 @@
     <li><a href="#limitation">Limitation and what can be Improved</a></li>
     <li><a href="#markdown">R Markdown</a></li>
     <li><a href="#website">Website</a></li>
-    <li><a href="#hub">Deployment on GitHub Pages/a></li>
+    <li><a href="#hub">Deployment on GitHub Pages</a></li>
     <li><a href="#deployed">Website Deployed</a></li>
     <li><a href="#contribution">Contribution</a></li>
     <li><a href="#license">License</a></li>
