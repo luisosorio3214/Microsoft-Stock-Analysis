@@ -57,7 +57,7 @@
   <section id="data-source">
     <h2>Data Source</h2>
     <ul>
-      <li><a href="https://finance.yahoo.com/quote/MSFT/?fr=sycsrp_catchall">Yahoo Finance</a></li>
+      <li><a href="https://finance.yahoo.com/quote/MSFT/?fr=sycsrp_catchall" target="_blank">Yahoo Finance</a></li>
     </ul>
   </section>
 </p>
@@ -164,10 +164,19 @@
 </p>
 
 <p>
+  <section id="markdown">
+  <h2>R Markdown</h2>
+  <p>
+    To see the full R Markdown notebook click <a href="https://luisosorio3214.github.io/Machine-Learning-Project-R/Microsoft%20Stock%20Prediction%20-%20LSTM%20&%20GRU/" target="_blank">here</a>.
+  </p>
+  </section>
+</p>
+
+<p>
   <section id="website">
   <h2>Checkout the Website with dashboard</h2>
   <p>
-    To read full Microsoft Stock Analysis with a story relating to tech and economics click <a href="https://luisosorio3214.github.io/Power-BI-Dashboards/Microsoft%20Stock/b">here</a>.
+    To read full Microsoft Stock Analysis with a story relating to tech and economics click <a href="https://luisosorio3214.github.io/Power-BI-Dashboards/Microsoft%20Stock/b" target="_blank">here</a>.
   </p>
   </section>
 </p>
@@ -230,7 +239,7 @@
       LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
       OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
       SOFTWARE.<br> <br>
-      Learn more about <a href="https://choosealicense.com/licenses/mit/"> MIT </a> license
+      Learn more about <a href="https://choosealicense.com/licenses/mit/" target="_blank"> MIT </a> license
     </p>
   </section>
 </p>
