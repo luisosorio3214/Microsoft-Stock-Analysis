@@ -35,6 +35,7 @@
     <li><a href="#quick-glance">Quick glance at the Results</a></li>
     <li><a href="#lesson-learned">Lessons learned and Recommendation</a></li>
     <li><a href="#limitation">Limitation and what can be Improved</a></li>
+    <li><a href="#markdown">R Markdown</a></li>
     <li><a href="#website">Website</a></li>
     <li><a href="#hub">Deployment on GitHub Pages/a></li>
     <li><a href="#deployed">Website Deployed</a></li>
