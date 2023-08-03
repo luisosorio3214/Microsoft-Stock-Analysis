@@ -49,7 +49,7 @@
   <section id="context">
     <h2>Context</h2>
     <p>
-      I like to study macro-economics and it is quite essential when reading stock market prices since they are heavily influenced by it. It is quite remarkable how a single statement from the Federal Reserve chairman, Jerome Powell and the entire stock price completely changes course. I usually spend time watching the Fed Minutes and also find interesting how several news outlets ask Jerome tricky questions to pull more information. The motivation for this particular project was to use Microsoft Stock prices and relate them to historical events that have impacted our economy to tell a compelling story about tech and economics. I also wanted to build some deep learning models to see if I can try to predict the movement of the stock price. 
+      I like to study macro-economics and it is quite essential when reading stock market prices since they are heavily influenced by it. It is quite remarkable how a single statement from the Federal Reserve chairman, Jerome Powell and the entire stock price completely changes course. I usually spend time watching the Fed Minutes and also find interesting how several news outlets ask Jerome tricky questions to pull more information to expose hidden truths. The motivation for this particular project was to use Microsoft Stock prices and relate them to historical events that have impacted our economy to tell a compelling story about tech and economics. I also wanted to build some deep learning models to see if I can try to predict the movement of the stock price. 
     </p>
   </section>
 </P>
