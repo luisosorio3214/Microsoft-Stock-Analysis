@@ -187,14 +187,14 @@
   <section id="hub">
     <h2>Deployment using GitHub Pages</h2>
     <p>
-      Did you know you can deploy a website for free using GitHub Pages? I will teach step by step on how to deploy your own website.
+      Did you know you can deploy a website for free using GitHub Pages? I will teach you step by step on how to deploy your own website.
       <ol>
         <li>First Create a GitHub Repository</li>
         <li>Next build your website using your HTML code and name the file index.html. Note: You do not have to name the html file index however it will make it easier when directing to your site.</li>
         <li>Next, go to your repository settings. Go to Pages. </li>
         <li>Under the Branch title, where it says None click and choose the branch in which your repository is using. For most it will be the Main Branch.</li>
-        </li>You can view the deployment process under the GitHub Actions. This is where you can customize your own build process which is a whole course in itself.</li>
-        <li>After some time, you will see in the pages setting a link appear. This is the Website to your html file.</li>
+        <li>You can view the deployment process under the GitHub Actions. This is where you can customize your own build process which is a whole course in itself.</li>
+        <li>After some time, in the pages setting a link appear. This is the website to your html file.</li>
       </ol>
     </p>
   </section>
